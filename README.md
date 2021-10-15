@@ -11,10 +11,10 @@ Combining a design idea with 3D Prints, WS2812 LEDs, tactile switches and an Ard
 
 ### 3D Parts
 
-*[Launchpad GehAuse.123dx](https://content.instructables.com/ORIG/FD0/6KJR/JS5C5DMN/FD06KJRJS5C5DMN.123dx)
-*[Launchpad LED Aufnahme.123dx](https://content.instructables.com/ORIG/FUN/PWU7/JS5C5DMO/FUNPWU7JS5C5DMO.123dx)
-*[Launchpad Taster.123dx](https://content.instructables.com/ORIG/FIX/A5W9/JS5C5DMQ/FIXA5W9JS5C5DMQ.123dx)
-*[Launchpad Deckel.123dx](https://content.instructables.com/ORIG/FD4/SEN1/JS5C5DMS/FD4SEN1JS5C5DMS.123dx)
+* [Launchpad GehAuse.123dx](https://content.instructables.com/ORIG/FD0/6KJR/JS5C5DMN/FD06KJRJS5C5DMN.123dx)
+* [Launchpad LED Aufnahme.123dx](https://content.instructables.com/ORIG/FUN/PWU7/JS5C5DMO/FUNPWU7JS5C5DMO.123dx)
+* [Launchpad Taster.123dx](https://content.instructables.com/ORIG/FIX/A5W9/JS5C5DMQ/FIXA5W9JS5C5DMQ.123dx)
+* [Launchpad Deckel.123dx](https://content.instructables.com/ORIG/FD4/SEN1/JS5C5DMS/FD4SEN1JS5C5DMS.123dx)
 
 
 ### Vídeo
