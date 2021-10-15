@@ -16,6 +16,12 @@ Combining a design idea with 3D Prints, WS2812 LEDs, tactile switches and an Ard
 * [Launchpad Taster.123dx](https://content.instructables.com/ORIG/FIX/A5W9/JS5C5DMQ/FIXA5W9JS5C5DMQ.123dx)
 * [Launchpad Deckel.123dx](https://content.instructables.com/ORIG/FD4/SEN1/JS5C5DMS/FD4SEN1JS5C5DMS.123dx)
 
+### Libraries
+
+* [Keyboard library](https://playground.arduino.cc/code/keypad)
+* [FastLED library](https://github.com/FastLED/FastLED)
+* [Hairless MIDI<->Serial Bridge](http://projectgus.github.io/hairless-midiserial/)
+* [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html)
 
 ### Vídeo
  
